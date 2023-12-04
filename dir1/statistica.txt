@@ -1,6 +1,0 @@
-Pentru procesul fiu 5426 numarul de linii este 8.
-Pentru procesul fiu 5427 numarul de linii este 8.
-Pentru procesul fiu 5428 numarul de linii este 10.
-Pentru procesul fiu 5431 numarul de linii este 5.
-Pentru procesul fiu 5432 numarul de linii este 6.
-Pentru procesul fiu 5433 numarul de linii este 8.
