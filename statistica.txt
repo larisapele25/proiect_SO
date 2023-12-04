@@ -1,31 +1,131 @@
 nume fisier: exempluu.txt
-dimensiune: 7
+dimensiune: 13
 identificatorul utilizatorului: 1000
-timpul ultimei modificari: Sat Nov 11 16:12:56 2023
-
+timpul ultimei modificari: Sat Nov 11 16:16:27 2023
 contorul de legaturi: 1
 drepturi de acces user: RW-
 drepturi de acces grup: RW-
 drepturi de acces altii: R--
+
 nume fisier: imagine.bmp
 inaltime: 1280
 lungime: 1920
 dimensiune: 7372938
 identificatorul utilizatorului: 1000
 timpul ultimei modificari: Wed Nov  8 15:33:07 2023
-
 contorul de legaturi: 1
 drepturi de acces user: RW-
 drepturi de acces grup: RW-
 drepturi de acces altii: R--
-nume director: dir1/dir2
-identificatorul utilizatorului: 1000
-drepturi de acces user: RWX
-drepturi de acces grup: RWX-
-drepturi de acces altii: R-X
+
 nume legatura: legatura_simbolica.txt
 dimensiune legatura: 12
-dimensiune fisier target: 7
+dimensiune fisier target: 13
 drepturi de acces user: RWX
 drepturi de acces grup: RWX
 drepturi de acces altii: RWX
+
+nume fisier: ceva.txt
+dimensiune: 4
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 25 16:42:45 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume fisier: ceva.txt
+dimensiune: 4
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 25 16:42:45 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume legatura: legatura_simbolica.txt
+dimensiune legatura: 12
+dimensiune fisier target: 13
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: RWX
+
+nume fisier: ceva.txt
+dimensiune: 4
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 25 16:42:45 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume fisier: ceva.txt
+dimensiune: 4
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 25 16:42:45 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume fisier: imagine.bmp
+inaltime: 1280
+lungime: 1920
+dimensiune: 7372938
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Nov  8 15:33:07 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume legatura: legatura_simbolica.txt
+dimensiune legatura: 12
+dimensiune fisier target: 13
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: RWX
+
+nume fisier: ceva.txt
+dimensiune: 4
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 25 16:42:45 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume fisier: ceva.txt
+dimensiune: 4
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 25 16:42:45 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume legatura: legatura_simbolica.txt
+dimensiune legatura: 12
+dimensiune fisier target: 13
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: RWX
+
+nume fisier: ceva.txt
+dimensiune: 4
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 25 16:42:45 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume fisier: ceva.txt
+dimensiune: 4
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 25 16:42:45 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
