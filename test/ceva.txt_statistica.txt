@@ -1,9 +1,0 @@
-nume fisier: ceva.txt
-dimensiune: 4
-identificatorul utilizatorului: 1000
-timpul ultimei modificari: Sat Nov 25 16:42:45 2023
-contorul de legaturi: 1
-drepturi de acces user: RW-
-drepturi de acces grup: RW-
-drepturi de acces altii: R--
-
