@@ -1,0 +1,7 @@
+nume legatura: legatura_simbolica.txt
+dimensiune legatura: 12
+dimensiune fisier target: 7
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: RWX
+

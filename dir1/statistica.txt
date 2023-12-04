@@ -1,0 +1,6 @@
+Pentru procesul fiu 3436 numarul de linii este 8.
+Pentru procesul fiu 3437 numarul de linii este 8.
+Pentru procesul fiu 3438 numarul de linii este 10.
+Pentru procesul fiu 3440 numarul de linii este 5.
+Pentru procesul fiu 3441 numarul de linii este 6.
+Pentru procesul fiu 3442 numarul de linii este 8.
